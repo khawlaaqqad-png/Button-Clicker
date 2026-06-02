@@ -25,6 +25,8 @@ A simple interactive webpage that demonstrates JavaScript event handling using `
 - Removing elements with `.remove()`
 
 ## Screenshots
-<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/4ab72567-5e53-450a-8c6e-ace7a3e882b2" />
-<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/357cca0d-118e-4d60-8b3c-769d7afb3c92" />
-<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/03dcc818-9e62-4b52-9f00-5b26b87e0fe7" />
+<img width="1057" height="693" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/7d3d5e45-151c-4fda-b4c8-d8f81538b29f" />
+
+<img width="1035" height="673" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/50dbe6c6-86d7-4ce5-aeaa-99bc6cfa3201" />
+
+<img width="1125" height="724" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/03e996e5-04ab-443c-818a-c29d8734df19" />
