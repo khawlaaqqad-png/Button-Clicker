@@ -12,7 +12,7 @@ A simple interactive webpage that demonstrates JavaScript event handling using `
 
 | Function | Description |
 |----------|-------------|
-| `changeText(button)` | Changes the button text from "Login" to "Logout" (or vice versa). |
+| `changeText(button)` | Changes the button text from "Login" to "Logout"  |
 | `like(button)` | Shows an alert: `"Ninja was liked"`. |
 | `remove(button)` | Removes the button from the page using `button.remove()`. |
 
