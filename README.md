@@ -13,7 +13,7 @@ A simple interactive webpage that demonstrates JavaScript event handling using `
 | Function | Description |
 |----------|-------------|
 | `changeText(button)` | Changes the button text from "Login" to "Logout"  |
-| `like(button)` | Shows an alert: `"Ninja was liked"`. |
+| `like(button)` | Each click increases the like count by 1 and displays an alert saying `"Ninja was liked"`. |
 | `remove(button)` | Removes the button from the page using `button.remove()`. |
 
 ## Key Concepts Practiced
