@@ -1,20 +1,21 @@
 function changeText(button) {
-    button.innerText = "Logout";
+    if (button.innerText  === "longin") {
+        button.innerText = "logout";
+        button.style.backgroundColor = "#fed966";
+    } else {
+        button.innerText = "longin";
+        button.style.backgroundColor = "#2a78e4"
+    }
 }
 
-var likeCount = 0;
+var likeCount = {};
 
-function Like(button) {
-    likeCount = likeCount + 1;
-    button.innerText = likeCount + " likes";
-    alert("Ninja was liked");
-}
-
-var likeCount2 = 0;
-
-function Like2(button) {
-    likeCount2 = likeCount2 + 1;
-    button.innerText = likeCount2 + " likes";
+function Like(button , id) {
+    if (likeCount[id] === undefined){
+        likeCount[id]=0;
+    }
+    likeCount[id] = likeCount[id] + 1;
+    button.innerText = likeCount[id] + ' like';
     alert("Ninja was liked");
 }
 
